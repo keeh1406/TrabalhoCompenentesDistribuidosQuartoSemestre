@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "305084313833",
+    "firebase_url": "https://maiscadastros-eb6b9.firebaseio.com",
+    "project_id": "maiscadastros-eb6b9",
+    "storage_bucket": "maiscadastros-eb6b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305084313833:android:43d5248aaf684eff",
+        "android_client_info": {
+          "package_name": "com.example.opet.maiscadastros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305084313833-vsa5scb3lqs702dnndgmpprhuvb3m2sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opet.maiscadastros",
+            "certificate_hash": "7f764185160b2af72ccc7d134608eeacc34513a9"
+          }
+        },
+        {
+          "client_id": "305084313833-3d429c03k8tuajaa97mm61lc2l7pbm0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-jqXyf2B7eKfqs2xBVNxhnKmXoOcsDY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305084313833-3d429c03k8tuajaa97mm61lc2l7pbm0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
